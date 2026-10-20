@@ -7,3 +7,5 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
 <!-- Adicione uma linha por aula, por exemplo:
 - Aula 01 - Fundamentos
 -->
+
+- [Aula 01 - Olá, Mundo](maratona-java/src/aula01)
