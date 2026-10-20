@@ -4,8 +4,14 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
 
 ## Progresso
 
-<!-- Adicione uma linha por aula, por exemplo:
-- Aula 01 - Fundamentos
+<!-- Modelo para as próximas aulas:
+### [Aula 02 - Tema da aula](maratona-java/src/aula02)
+- O que aprendi
+- Outra coisa que aprendi
 -->
 
-- [Aula 01 - Olá, Mundo](maratona-java/src/aula01)
+### [Aula 01 - Olá, Mundo](maratona-java/src/aula01)
+- Estrutura básica de uma classe em Java (`public class`)
+- O método `main`, que é o ponto de início do programa
+- Como imprimir texto no console com `System.out.println`
+- Compilar com `javac` e executar com `java`
