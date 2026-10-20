@@ -4,14 +4,6 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
 
 ## Progresso
 
-<!-- Modelo para as próximas aulas:
-### [Aula 02 - Tema da aula](maratona-java/src/aula02)
-- O que aprendi
-- Outra coisa que aprendi
--->
+<!-- Modelo: - [Aula 02 - Tema](maratona-java/src/aula02): resumo curto do que aprendi -->
 
-### [Aula 01 - Olá, Mundo](maratona-java/src/aula01)
-- Estrutura básica de uma classe em Java (`public class`)
-- O método `main`, que é o ponto de início do programa
-- Como imprimir texto no console com `System.out.println`
-- Compilar com `javac` e executar com `java`
+- [Aula 01 - Olá, Mundo](maratona-java/src/aula01): estrutura de uma classe, método main e System.out.println
