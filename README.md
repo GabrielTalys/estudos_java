@@ -12,3 +12,5 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - DeclaracaoeTamanhoEmMemoria: declaração dos 8 tipos primitivos e char com código Unicode
   - Strings: declaração de variável do tipo String e concatenação com texto
   - ExTiposPrimitivos: exercício com variáveis String e float e concatenação para montar uma frase
+- [Aula 03 - Operadores](maratona-java/src/academy/devdojo/maratonajava/introducao/aula03)
+  - OperadoresPt1: comentário com os operadores aritméticos e divisão entre int e double guardada em double
