@@ -15,3 +15,4 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
 - [Aula 03 - Operadores](maratona-java/src/academy/devdojo/maratonajava/introducao/aula03Operadores)
   - Aritmeticos: comentário com os operadores aritméticos e divisão entre int e double guardada em double
   - Relacionais: resto da divisão com %, comentário com os operadores relacionais e comparações com >, < e == guardadas em variáveis boolean
+  - LogicosAnd: comentário com os operadores lógicos e duas condições com && guardadas em variáveis boolean
