@@ -14,3 +14,4 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - ExTiposPrimitivos: exercício com variáveis String e float e concatenação para montar uma frase
 - [Aula 03 - Operadores](maratona-java/src/academy/devdojo/maratonajava/introducao/aula03Operadores)
   - Aritmeticos: comentário com os operadores aritméticos e divisão entre int e double guardada em double
+  - Relacionais: resto da divisão com %, comentário com os operadores relacionais e comparações com >, < e == guardadas em variáveis boolean
