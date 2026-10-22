@@ -11,3 +11,4 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - TiposPrimitivos: variável do tipo int e concatenação de texto
   - DeclaracaoeTamanhoEmMemoria: declaração dos 8 tipos primitivos e char com código Unicode
   - Strings: declaração de variável do tipo String e concatenação com texto
+  - ExTiposPrimitivos: exercício com variáveis String e float e concatenação para montar uma frase
