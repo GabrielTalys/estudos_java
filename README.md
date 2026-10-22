@@ -10,3 +10,4 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
 - [Aula 02 - Tipos primitivos](maratona-java/src/academy/devdojo/maratonajava/introducao/aula02)
   - TiposPrimitivos: variável do tipo int e concatenação de texto
   - DeclaracaoeTamanhoEmMemoria: declaração dos 8 tipos primitivos e char com código Unicode
+  - Strings: declaração de variável do tipo String e concatenação com texto
