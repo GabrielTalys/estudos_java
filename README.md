@@ -16,3 +16,4 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - Aritmeticos: comentário com os operadores aritméticos e divisão entre int e double guardada em double
   - Relacionais: resto da divisão com %, comentário com os operadores relacionais e comparações com >, < e == guardadas em variáveis boolean
   - LogicosAnd: comentário com os operadores lógicos e duas condições com && guardadas em variáveis boolean
+  - LogicosOR: condição com || entre dois saldos e um preço guardada em variável boolean
