@@ -1,6 +1,6 @@
-package academy.devdojo.maratonajava.introducao.aula03;
+package academy.devdojo.maratonajava.introducao.aula03Operadores;
 
-public class OperadoresPt1 {
+public class Aritmeticos {
     public static void main (String[] args){
         /*
         + - soma
