@@ -7,4 +7,6 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
 <!-- Modelo: - [Aula 03 - Tema](maratona-java/src/academy/devdojo/maratonajava/introducao/aula03): resumo curto do que aprendi -->
 
 - [Aula 01 - Olá, Mundo](maratona-java/src/academy/devdojo/maratonajava/introducao/aula01): estrutura de uma classe, método main e System.out.println
-- [Aula 02 - Tipos primitivos](maratona-java/src/academy/devdojo/maratonajava/introducao/aula02): declaração de variável do tipo int e concatenação de texto com System.out.println
+- [Aula 02 - Tipos primitivos](maratona-java/src/academy/devdojo/maratonajava/introducao/aula02)
+  - TiposPrimitivos: variável do tipo int e concatenação de texto
+  - DeclaracaoeTamanhoEmMemoria: declaração dos 8 tipos primitivos e char com código Unicode
