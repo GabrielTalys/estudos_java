@@ -18,3 +18,5 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - LogicosAnd: comentário com os operadores lógicos e duas condições com && guardadas em variáveis boolean
   - LogicosOR: condição com || entre dois saldos e um preço guardada em variável boolean
   - Atribuicao: operadores de atribuição (=, +=, -=, *=, /=, %=) em variáveis int e double e incremento/decremento com ++ e --
+- [Aula 04 - Estruturas condicionais](maratona-java/src/academy/devdojo/maratonajava/introducao/aula04EstruturasCondicionais)
+  - IF: condição com >= guardada em variável boolean e dois if que imprimem "Autorizado" ou "Não autorizado"
