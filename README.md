@@ -20,3 +20,6 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - Atribuicao: operadores de atribuição (=, +=, -=, *=, /=, %=) em variáveis int e double e incremento/decremento com ++ e --
 - [Aula 04 - Estruturas condicionais](maratona-java/src/academy/devdojo/maratonajava/introducao/aula04EstruturasCondicionais)
   - IF: condição com >= guardada em variável boolean e dois if que imprimem "Autorizado" ou "Não autorizado"
+  - ExLanchonete: exercício com cálculo do pedido, desconto com *=, variáveis boolean com && e if para pagamento e combo
+  - ExBoletim: exercício com média, bônus com +=, limite da média, frequência com divisão entre int e double e situação do aluno com && e ||
+  - ExEstacionamento: exercício com horas cobradas usando / e %, incremento com ++, char para tipo do veículo, acréscimo de fim de semana com || e limite de valor
