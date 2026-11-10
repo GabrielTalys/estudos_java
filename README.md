@@ -23,3 +23,5 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - ExLanchonete: exercício com cálculo do pedido, desconto com *=, variáveis boolean com && e if para pagamento e combo
   - ExBoletim: exercício com média, bônus com +=, limite da média, frequência com divisão entre int e double e situação do aluno com && e ||
   - ExEstacionamento: exercício com horas cobradas usando / e %, incremento com ++, char para tipo do veículo, acréscimo de fim de semana com || e limite de valor
+  - ElseIf: categoria por idade com if, else if e else e condição com && para a faixa juvenil
+  - ExContaDeLuz: exercício com faixas de consumo e bandeira usando else if, desconto com *=, multa de 2%, valor mínimo e String.format com 2 casas
