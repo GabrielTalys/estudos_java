@@ -25,3 +25,9 @@ Repositório criado para acompanhar meu progresso no curso **Maratona Java Virad
   - ExEstacionamento: exercício com horas cobradas usando / e %, incremento com ++, char para tipo do veículo, acréscimo de fim de semana com || e limite de valor
   - ElseIf: categoria por idade com if, else if e else e condição com && para a faixa juvenil
   - ExContaDeLuz: exercício com faixas de consumo e bandeira usando else if, desconto com *=, multa de 2%, valor mínimo e String.format com 2 casas
+
+## Projeto: Banco Digital
+
+Projeto que cresce a cada aula: cada assunto novo do curso vira uma funcionalidade do banco.
+
+- [v1 - Um dia na conta](maratona-java/src/academy/devdojo/maratonajava/introducao/projetoBanco/BancoDigital.java): plano Básico/Premium com limite do cartão, Pix com limite noturno (20h às 5h59) e validação com else if, compra no cartão com cashback por plano e categoria, e resumo com saldo, fatura, limite disponível e status da conta
